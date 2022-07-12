@@ -5,7 +5,7 @@ Welcome on my GitHub profile!
 I am...
 - 🇸🇰 &nbsp; from Slovakia
 - 🎹 &nbsp; a student of the Conservatory (piano)
-- 🐧 &nbsp; I realy like Linux (I use arch BTW)
+- 🐧 &nbsp; I really like Linux (I use arch BTW)
 
 ## ⌨️ Skils
 - 👨‍💻 &nbsp; JavaScript, Python, HTML, CSS
