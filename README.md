@@ -13,7 +13,7 @@ I am...
 - 🌐 &nbsp; [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) for web browsing
 - 🐧 &nbsp; [EndeavourOS](https://endeavouros.com/) as my operating system
 
-## ↝ Skils
+## ↝ Skills
 - 👨‍💻 &nbsp; JavaScript, Python, HTML, CSS
 - ⚙️ &nbsp; Bootstrap, React
 - 💽 &nbsp; MySQL, MongoDB
