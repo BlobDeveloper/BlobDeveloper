@@ -5,7 +5,7 @@ Welcome on my GitHub profile!
 I am...
 - 🇸🇰 &nbsp; from Slovakia
 - 🎹 &nbsp; a student of the Conservatory (piano)
-- ❤️ &nbsp; Linux lover
+- ❤️ &nbsp; a Linux lover
 - 🚲 &nbsp; a biker
 
 ## 🤔 I use...
