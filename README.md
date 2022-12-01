@@ -10,12 +10,12 @@ I am...
 
 ## ↝ I use...
 - ✏️ &nbsp; [Visual Studio Code](https://code.visualstudio.com) for programming
-- 🌐 &nbsp; [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) for web browsing
-- 🐧 &nbsp; [EndeavourOS](https://endeavouros.com/) as my operating system
+- 🌐 &nbsp; [Brave](https://brave.com) for web browsing
+- 🐧 &nbsp; [EndeavourOS](https://endeavouros.com/) as my operating system (i3wm)
 
 ## ↝ Skills
 - 👨‍💻 &nbsp; JavaScript, Python, HTML, CSS
-- ⚙️ &nbsp; Bootstrap, React
+- ⚙️ &nbsp; Bootstrap
 - 💽 &nbsp; MySQL, MongoDB
 
 ## ↝ Contact
